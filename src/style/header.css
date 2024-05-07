@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    background-color: red;
+    height: 8vh;
+}
+.bi{
+    height: 20px;
+    font-size: 6vh;
+    margin-top: 1vh;
+    padding-left: 2vw;
+    margin-right: 30%;
+    display: flex;
+}
+.bi span{
+    padding-left: 1vw;
+}
