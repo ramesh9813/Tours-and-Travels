@@ -1,0 +1,62 @@
+.cards{
+    border: 2px solid black;
+    width: 28%;
+    text-align: center;
+    position: relative;
+    margin: 30px;
+    margin-top: 20%;
+}
+
+
+.cards img{
+    width:100%;
+    filter: grayscale(40%);
+}
+/* make image darker apply purple color overlay under hover */
+/* apply transition time  */
+.cards img:hover{
+    opacity: 0.5;
+    filter: grayscale(60%);
+    transition: 0.3s;
+}
+
+
+.cards .location{
+    color:rgb(205,141,149);
+    font-size: 1.5rem;
+}
+.cards button{
+    background-color: rgb(205,141,149);
+    color: white;
+    border: 2px solid rgb(205,141,149);
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    /* make the button at top od all */
+
+     
+}
+.cards span{
+    color: rgb(115,158,167);
+}
+
+
+ 
+ .cards button:hover{
+    background-color: rgb(115,158,167);
+    color: white;
+    border: 2px solid rgb(115,158,167);
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+/* place the buttom over the image  */
+.cards img{
+    position: absolute;
+    top: 35%;
+    left: 0;
+    transition: 0.3s;
+}
+
+ 

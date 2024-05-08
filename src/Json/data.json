@@ -1,0 +1,91 @@
+{
+    "name": "tours and travel",
+    "version": "1.0.",
+    "packages": [
+      {
+        "location": "Japan",
+        "number_of_days": "5",
+        "cost": "$300",
+        "description": "Experience the Land of the Rising Sun like never before! Immerse yourself in the rich culture, stunning landscapes, and vibrant cities of Japan on this unforgettable 5-day journey. From the bustling streets of Tokyo to the serene temples of Kyoto, this tour offers a perfect blend of modernity and tradition. Explore iconic landmarks, savor delicious cuisine, and create lifelong memories in this fascinating destination.",
+        "img": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "Italy",
+        "number_of_days": "7",
+        "cost": "$500",
+        "description": "Discover the beauty of Italy on this 7-day adventure! Visit historic landmarks such as the Colosseum in Rome, marvel at the art and architecture of Florence, and cruise along the picturesque canals of Venice. Indulge in delicious Italian cuisine and immerse yourself in the rich culture and history of this enchanting country.",
+        "img": "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "France",
+        "number_of_days": "6",
+        "cost": "$450",
+        "description": "Bonjour! Embark on a 6-day journey through the charming cities and stunning countryside of France. Explore the romantic streets of Paris, wander through the vineyards of Bordeaux, and marvel at the beauty of the French Riviera. Experience the art, culture, and gastronomy of France in this unforgettable adventure.",
+        "img": "https://plus.unsplash.com/premium_photo-1688479428007-658f1abb8c33?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "Spain",
+        "number_of_days": "8",
+        "cost": "$550",
+        "description": "¡Hola! Dive into the vibrant culture and fascinating history of Spain on this 8-day tour. Explore the bustling streets of Madrid, marvel at the architectural wonders of Barcelona, and relax on the sun-kissed beaches of the Costa del Sol. Indulge in delicious tapas, experience flamenco music and dance, and discover the magic of Spain.",
+        "img": "https://plus.unsplash.com/premium_photo-1688141871918-57250bdf595e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "Greece",
+        "number_of_days": "7",
+        "cost": "$480",
+        "description": "Step back in time and explore the ancient wonders of Greece on this 7-day odyssey. Visit iconic landmarks such as the Acropolis in Athens, relax on the pristine beaches of Santorini, and immerse yourself in the mythology and history of this legendary civilization.",
+        "img": "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "Thailand",
+        "number_of_days": "9",
+        "cost": "$600",
+        "description": "Experience the exotic beauty and vibrant culture of Thailand on this 9-day adventure. Discover the bustling streets of Bangkok, explore the ancient temples of Chiang Mai, and unwind on the idyllic beaches of Phuket. Indulge in delicious Thai cuisine, encounter friendly locals, and create unforgettable memories in the Land of Smiles.",
+        "img": "https://images.unsplash.com/photo-1506665531195-3566af2b4dfa?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "Australia",
+        "number_of_days": "10",
+        "cost": "$700",
+        "description": "Explore the diverse landscapes and unique wildlife of Australia on this 10-day journey. Discover the vibrant city life of Sydney, marvel at the natural beauty of the Great Barrier Reef, and encounter iconic animals such as kangaroos and koalas. From the Outback to the coast, Australia awaits your discovery.",
+        "img": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "China",
+        "number_of_days": "8",
+        "cost": "$580",
+        "description": "Embark on an epic 8-day adventure through the wonders of China. Explore the ancient treasures of Beijing, walk along the Great Wall, and marvel at the modern skyline of Shanghai. Immerse yourself in the rich culture, history, and cuisine of this vast and diverse country.",
+        "img": "https://images.unsplash.com/photo-1559118469-ed92bc1e4a13?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "India",
+        "number_of_days": "12",
+        "cost": "$800",
+        "description": "Journey through the vibrant tapestry of India on this 12-day expedition. Explore the bustling streets of Delhi, marvel at the majestic Taj Mahal in Agra, and cruise along the serene backwaters of Kerala. Experience the diverse culture, breathtaking landscapes, and ancient heritage of this incredible country.",
+        "img": "https://plus.unsplash.com/premium_photo-1661963646501-7c2818380948?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "Brazil",
+        "number_of_days": "7",
+        "cost": "$550",
+        "description": "Discover the natural wonders and vibrant culture of Brazil on this 7-day escapade. Explore the breathtaking landscapes of Rio de Janeiro, relax on the pristine beaches of Fernando de Noronha, and venture into the heart of the Amazon Rainforest. From samba rhythms to lush jungles, Brazil offers an unforgettable adventure.",
+        "img": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "location": "New Zealand",
+        "number_of_days": "10",
+        "cost": "$750",
+        "description": "Experience the pristine beauty and outdoor adventures of New Zealand on this 10-day expedition. Explore the dramatic landscapes of Fiordland National Park, embark on thrilling adventures in Queenstown, and discover the Maori culture and heritage. From snow-capped mountains to crystal-clear lakes, New Zealand is a paradise for nature lovers.",
+        "img": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },{
+        "location": "Poland",
+        "number_of_days": "5",
+        "cost": "$400",
+        "description": "Embark on a 5-day journey through the rich history and charming landscapes of Poland. Visit the historic streets of Krakow, explore the stunning architecture of Warsaw, and immerse yourself in the culture and traditions of this beautiful country. From medieval castles to vibrant city life, Poland offers a memorable experience for every traveler.",
+        "img": "https://images.unsplash.com/photo-1623130622557-8fab31968b8f?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+      
+    ]
+  }
+  

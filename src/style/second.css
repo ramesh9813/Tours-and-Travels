@@ -1,0 +1,30 @@
+.packages {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .package {
+    width: calc(33.33% - 20px); /* Adjust the width as needed */
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .second{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: rgb(105,168,163);
+  }
+  @media (max-width: 768px) {
+    .package {
+      width: calc(50% - 20px); /* Adjust the width as needed */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .package {
+      width: calc(100% - 20px); /* Adjust the width as needed */
+    }
+  }
+  

@@ -1,3 +1,29 @@
-.first{
+/* .first{
     height: 100vh;
+} */
+
+img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+.content{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    left: 20%;
+    font-size: 2rem;
+}
+.content p{
+    color: white;
+}
+.content button{
+    font-size: 1.2rem;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #000;
+    color: white;
+    cursor: pointer;
 }
