@@ -1,29 +1,35 @@
-/* .first{
-    height: 100vh;
-} */
-
+ 
 img {
     width: 100%;
     max-width: 100%;
-    height: auto;
+    /* height: 80vh; */
+}
+.first-image{
+    height: 95vh;
+    filter: contrast(80%);
+    /* filter: grayscale(80%); */
 }
 .content{
     position: absolute;
     top: 50%;
     text-align: center;
-    left: 20%;
-    font-size: 2rem;
-}
-.content p{
+    /* align-items: center; */
+    left: 35%;
     color: white;
 }
-.content button{
+
+.content .search-package{
     font-size: 1.2rem;
     margin-top: 20px;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    background-color: #000;
+    background-color: rgb(205, 141, 149);
     color: white;
     cursor: pointer;
 }
+
+.content .search-package:hover {
+    background-color: rgb(115, 158, 167);
+  }
+  

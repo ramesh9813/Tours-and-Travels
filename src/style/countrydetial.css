@@ -1,0 +1,36 @@
+.country-detail{
+    display: flex;
+}
+
+.country-detail .right{
+    margin-left: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+}
+
+.right h2,
+.right p,
+.right button {
+    padding: 1%;
+}
+.right h2{
+    color:  rgb(115, 158, 167);
+}
+.right button{
+    background-color: rgb(205, 141, 149);
+    color: white;
+    border: 2px solid rgb(205, 141, 149);
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+.right button:hover {
+    background-color: rgb(115, 158, 167);
+    color: white;
+    border: 2px solid rgb(115, 158, 167);
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}

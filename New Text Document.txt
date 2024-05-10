@@ -1,1 +1,19 @@
-1hour 10 minute 
+---------Time it takes to build---------
+1hour 10 minute +
+4 hours +
+1 hours
+
+
+
+
+
+
+
+
+
+-----------remaining task--------
+remove the underlin from the header
+compelt  the the pricing component 
+store add into local storage
+add checkout page to the travel adn tour app
+

@@ -1,16 +1,58 @@
 .header{
     display: flex;
     background-color: white;
-    height: 8vh;
+    height: 10vh;
+
 }
 .bi{
     height: 20px;
-    font-size: 6vh;
-    margin-top: 1vh;
+    font-size: 5vh;
+    margin-top: 0vh;
     padding-left: 2vw;
     margin-right: 30%;
     display: flex;
 }
+
 .bi span{
     padding-left: 1vw;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+   
+  }
+
+  .right a {
+    margin-right: 10px; 
+  }
+  
+.right .pricing{
+    background-color: red;
+    text-decoration: none;
+}
+
+.pricing-link,
+.package-link {
+    text-decoration: none;
+    color: white;
+    background-color:  rgb(115, 158, 167);
+    padding: 8px 20px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pricing-link:hover,
+.package-link:hover{
+  opacity: 0.4;
 }

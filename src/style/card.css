@@ -1,62 +1,77 @@
-.cards{
-    border: 2px solid black;
+.cards {
     width: 28%;
     text-align: center;
     position: relative;
     margin: 30px;
-    margin-top: 20%;
+ 
 }
 
-
-.cards img{
-    width:100%;
+.cards img {
+    width: 100%;
     filter: grayscale(40%);
 }
-/* make image darker apply purple color overlay under hover */
-/* apply transition time  */
-.cards img:hover{
+
+.cards img:hover {
     opacity: 0.5;
     filter: grayscale(60%);
     transition: 0.3s;
 }
 
-
-.cards .location{
-    color:rgb(205,141,149);
+.cards .location {
+    color: rgb(205, 141, 149);
     font-size: 1.5rem;
 }
+
 .cards button{
-    background-color: rgb(205,141,149);
-    color: white;
-    border: 2px solid rgb(205,141,149);
-    padding: 8px 20px;
-    border-radius: 10px;
-    font-size: 1.2rem;
-    /* make the button at top od all */
-
-     
-}
-.cards span{
-    color: rgb(115,158,167);
-}
-
-
- 
- .cards button:hover{
-    background-color: rgb(115,158,167);
-    color: white;
-    border: 2px solid rgb(115,158,167);
-    padding: 8px 20px;
-    border-radius: 10px;
-    font-size: 1.2rem;
-}
-
-/* place the buttom over the image  */
-.cards img{
     position: absolute;
-    top: 35%;
-    left: 0;
-    transition: 0.3s;
+    top: 50%;  
+    left: 35%;  
+    transform: translate(-50%, -50%); 
+    z-index: 1;  
 }
 
- 
+.cards .days {
+    background-color: white;
+    opacity: 0.8;
+    padding: 1.5%;
+    position: absolute;
+    top: 70%;  
+    left: 40%;  
+    transform: translate(-50%, -50%);  
+    z-index: 1; 
+}
+.cards .cost {
+    background-color: white;
+    opacity: 0.8;
+    padding: 1.5%;
+    position: absolute;
+    top: 70%;  
+    left: 60%;  
+    transform: translate(-50%, -50%);  
+    z-index: 1; 
+}
+
+.cards .add{
+    left: 60%;  
+}
+.cards button {
+    background-color: rgb(205, 141, 149);
+    color: white;
+    border: 2px solid rgb(205, 141, 149);
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+.cards span {
+    color: rgb(115, 158, 167);
+}
+
+.cards button:hover {
+    background-color: rgb(115, 158, 167);
+    color: white;
+    border: 2px solid rgb(115, 158, 167);
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
