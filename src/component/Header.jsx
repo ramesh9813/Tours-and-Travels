@@ -7,7 +7,7 @@ const Header = () => {
     <>
    <div className="header">
       <div className="left">
-        <Link to="/"style={{ textDecoration: 'none', color: 'inherit' }}> <i className="bi bi-house-fill"></i></Link>
+        <Link to="/"style={{ textDecoration: 'none', color: 'inherit' }}> <i className="bi bi-house-fill"></i> </Link>
       </div>
       <div className="right">
         <Link to="pricing" className="pricing-link"style={{ textDecoration: 'none', color: 'inherit' }}>Pricing</Link>
